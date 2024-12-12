@@ -1,1 +1,1 @@
-This is my first project i coding with pyton
+This is my first project in coding with pyton
